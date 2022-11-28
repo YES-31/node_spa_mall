@@ -138,5 +138,7 @@ router.post("/goods/", async (req,res)=>{
 })
 
 
+
+
 //라우터 값을 밖으로 내보내주는 명령어.
 module.exports = router;
