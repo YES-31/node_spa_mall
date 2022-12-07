@@ -24,4 +24,4 @@ const postsSchema = new mongoose.Schema({
   },
 });
 
-module.exports = mongoose.model("user", postsSchema);
+module.exports = mongoose.model("pppp", postsSchema);
